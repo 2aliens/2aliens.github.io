@@ -39,9 +39,9 @@ h1,h2,h3 {
 @media screen and (max-width: 800px) {
   body {
     width: auto;
-    padding: 10px;
+    padding: 20px;
     margin: 0px;
-    font-size: 10pt;
+    font-size: 12pt;
   }
   #logo {
     margin-bottom: 0px;
