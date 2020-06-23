@@ -22,8 +22,10 @@ a:hover {
 }
 
 #logo {
-  float: right;
-  margin: 20px;
+  /*float: left;*/
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: -50px;
 }
 
 img.project-thumb {
