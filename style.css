@@ -36,6 +36,20 @@ img.project-thumb {
 h1,h2,h3 {
   margin-top: 50px;
 }
+
+.about_box {
+  float: left;
+  margin: 20px;
+}
+.about_box img {
+  margin-right: 20px;
+}
+.about_box p {
+  float: right;
+  margin: 10px;
+  width: 100px;
+}
+
 @media screen and (max-width: 800px) {
   body {
     width: auto;
