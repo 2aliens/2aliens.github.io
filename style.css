@@ -25,29 +25,34 @@ a:hover {
   /*float: left;*/
   margin-bottom: 20px;
   margin-top: 20px;
-  margin-left: -50px;
-}
-
-img.project-thumb {
-  float: right;
-  margin: 10px;
+  margin-left: -40px;
+  width: 300px;
 }
 
 h1,h2,h3 {
   margin-top: 50px;
 }
 
-.about_box {
+h1 {
+  font-size: 26pt;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #000;
+}
+
+.about-box {
+  width: 100%;
   float: left;
-  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
-.about_box img {
+.about-box img {
   margin-right: 20px;
+  float: left;
 }
-.about_box p {
-  float: right;
-  margin: 10px;
-  width: 100px;
+.about-box p {
+  float: left;
+  width: 40%;
+  margin: 0px;
 }
 
 @media screen and (max-width: 800px) {
@@ -60,6 +65,21 @@ h1,h2,h3 {
   #logo {
     margin-bottom: 0px;
     padding: 0px;
+  }
+
+  .about-box {
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .about-box img {
+    margin-right: 10px;
+  }
+  .about-box p {
+    float: right;
+    margin-top: 10px;
+    width: 100%;
   }
 }
 
