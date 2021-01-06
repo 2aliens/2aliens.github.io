@@ -20,14 +20,14 @@ MSc. in Applied and Computational Physics from USP (University of São Paulo).</
 
 # Projects
 
-## Map to CS/ML
+## Map to CS/ML a.k.a Global Domination Project ;-)
 
 The best way to start a journey is following a map. Or getting lost on every step on the way.
 This is a map, a *hitchhiker's guide* to Computer Science. We're going from Coding
 to Machine Learning in a creative and artistic way as much as possible.
 In the end of this journey, you'll accumulate enough knowledge to call yourself a computer hacker.
 
-Every link will bring you to one YouTube video explaining the topic in a conscise and fun way we
+Every link will bring you to one YouTube video explaining the topic in the most conscise and fun way we
 were able to create. An opiniated guide to Computer Science delivered as weekly videos.
 
 ### Why?
@@ -39,11 +39,14 @@ were able to create. An opiniated guide to Computer Science delivered as weekly 
 - YouTube and other social media/streaming platforms are loaded with ads and
   click-bait content. We want to create content that tells more with less, go
   straight on the topic, no *bs*.
-- Demyistifying the (math/coding) background behind our world
+- Demyistifying the (math/coding) background behind our world.
 - Be practical and fun. Use creative coding as a tool to teach.
 - While going through it, give strong background to people be able to do code
-  interviews on big corps b/c the only way to change our world is from
+  interviews on companies b/c one way to change our world is from
   inside-out.
+- Or you can start your own tech startup and change the world while being a conscious and skilled entrepeneur.
+- Learn and be part of amazing open source and hacker communities, being an active actor by contributing to
+  it with our own code and ideas.
 
 ### How?
 
