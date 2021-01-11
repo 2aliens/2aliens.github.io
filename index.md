@@ -120,6 +120,7 @@ were able to create. An opiniated guide to Computer Science delivered as weekly 
           - LSTM
         - Transformers
 - System Design / Distributed Systems / Software Engineering
+  - Blockchains
 - Open Source / Free Software
   - How to contribute
   - Learning by reading code on GH
@@ -226,6 +227,7 @@ hobbies. Here you'll find some great references that inspired us to create.
 - System Design / Distributed Systems / Software Engineering
   - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Really great!!
   - [How Google works](https://www.amazon.com.br/s?k=How+Google+Works&rh=n%3A5308307011&_encoding=UTF8)
+  - Blockchains
 - Open Source / Free Software
   - http://aosabook.org/en/index.html
   - How to contribute
