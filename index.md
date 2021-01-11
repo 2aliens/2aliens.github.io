@@ -22,6 +22,9 @@ MSc. in Applied and Computational Physics from USP (University of São Paulo).</
 
 ## Map to CS/ML a.k.a Global Domination Project ;-)
 
+> "What I cannot create, I do not understand."
+> -- Richard Feynman
+
 The best way to start a journey is following a map. Or getting lost on every step on the way.
 This is a map, a *hitchhiker's guide* to Computer Science. We're going from Coding
 to Machine Learning in a creative and artistic way as much as possible.
@@ -227,6 +230,17 @@ hobbies. Here you'll find some great references that inspired us to create.
   - http://aosabook.org/en/index.html
   - How to contribute
   - Learning by reading code on GH
+
+### Similar Projects
+
+Learning by creating projects from scratch.
+
+- Create your own text editor: https://viewsourcecode.org/snaptoken/kilo/
+
+- https://viewsourcecode.org/snaptoken/similarTutorials.html
+- [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+- [Projects From Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
+
 
 ### Tips / Quotes
 
