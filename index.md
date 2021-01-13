@@ -243,7 +243,11 @@ Learning by creating projects from scratch.
 - https://viewsourcecode.org/snaptoken/similarTutorials.html
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 - [Projects From Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
-
+- https://aquadzn.github.io/learn-x-by-doing-y/
+- Source: https://github.com/aquadzn/learn-x-by-doing-y/blob/main/projects.csv
+- https://github.com/Xtremilicious/projectlearn-project-based-learning
+- https://github.com/rby90/Project-Based-Tutorials-in-C
+- https://github.com/danistefanovic/build-your-own-x
 
 ### Tips / Quotes
 
