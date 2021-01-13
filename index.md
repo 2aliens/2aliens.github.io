@@ -199,6 +199,7 @@ hobbies. Here you'll find some great references that inspired us to create.
     - C++
       - https://isocpp.org/images/uploads/2-Tour-Basics.pdf
     - Python
+      - [The Hitchhikers Guide to Python](https://docs.python-guide.org/)
   - Design Patterns
 - Computer Graphics
   - 3D
