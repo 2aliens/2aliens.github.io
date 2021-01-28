@@ -179,9 +179,11 @@ hobbies. Here you'll find some great references that inspired us to create.
   - Unix Tools
   - Your dot-files
 - Programming
+  - [GH Learning to Code collection](https://github.com/collections/learn-to-code)
   - [Google I/O 2009 - The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
   - [LeetCode](https://leetcode.com/)
   - [Geeks for Geeks](https://www.geeksforgeeks.org/)
+  - [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en/)
   - Big O
     - https://www.bigocheatsheet.com/
   - Data Structures
@@ -222,6 +224,7 @@ hobbies. Here you'll find some great references that inspired us to create.
     - Neural Networks
       - Deep Learning
         - [LeCunn / Casiani 2020 class](https://atcold.github.io/pytorch-Deep-Learning/)
+        - [Deep Learning Wizard](https://www.deeplearningwizard.com/)
         - ConvNets
         - RNN
           - LSTM
@@ -255,9 +258,10 @@ Learning by creating projects from scratch.
 
 ### Roadmaps
 
-- [ML Enginner Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
-  - https://github.com/kamranahmedse/roadmap.sh/blob/01fcce0d2ade595db49b50019aa2e4077dcdafd1/public/roadmaps/machinelearning.png
+- [AI Expert Roadmap](https://i.am.ai/roadmap/)
 - [Developers Roadmap](https://roadmap.sh/)
+- [Hacker Roadmap](https://sundowndev.github.io/hacker-roadmap/)
+- [ML Enginner Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
 
 ### Tips / Quotes
 
