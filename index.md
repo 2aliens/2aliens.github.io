@@ -218,6 +218,7 @@ hobbies. Here you'll find some great references that inspired us to create.
     - Dynamic Programming
   - ML
     - https://mml-book.github.io/
+    - http://themlbook.com/
     - Neural Networks
       - Deep Learning
         - [LeCunn / Casiani 2020 class](https://atcold.github.io/pytorch-Deep-Learning/)
@@ -248,6 +249,15 @@ Learning by creating projects from scratch.
 - https://github.com/Xtremilicious/projectlearn-project-based-learning
 - https://github.com/rby90/Project-Based-Tutorials-in-C
 - https://github.com/danistefanovic/build-your-own-x
+- https://github.com/collections/learn-to-code
+- [Roadmap to AI Expert 2021](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- https://github.com/labuladong/fucking-algorithm
+
+### Roadmaps
+
+- [ML Enginner Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+  - https://github.com/kamranahmedse/roadmap.sh/blob/01fcce0d2ade595db49b50019aa2e4077dcdafd1/public/roadmaps/machinelearning.png
+- [Developers Roadmap](https://roadmap.sh/)
 
 ### Tips / Quotes
 
