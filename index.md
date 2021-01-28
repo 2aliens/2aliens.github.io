@@ -1,7 +1,7 @@
 Hey! We're __2aliens__, an independent research studio/lab about
 Machine Learning, Art, Music, Games and Coding.
 
-[Twitter](https://twitter.com/002aliens) - [GitHub](https://github.com/2aliens)
+[Twitter](https://twitter.com/002aliens) - [GitHub](https://github.com/2aliens) - [Instagram](https://instagram.com/2aliens_studio)
 
 # About
 
@@ -9,13 +9,19 @@ Machine Learning, Art, Music, Games and Coding.
 Vilson Vieira.
 
 <div class="about-box">
-<img class="thumb-left" src="g.png" /> <p class="about">Gabriela Thumé is a Machine Learning Engineer at Extend AI, holds a BSc. in
-Computer Science and MSc. in Computer Science from USP (University of São Paulo).</p>
+<img class="thumb-left" src="g.png" /> <p class="about">Gabriela Thumé is a Machine Learning Engineer at <a href="https://extend.ai">Extend AI</a>, holds a BSc. in
+Computer Science and MSc. in Computer Science from <a href="https://usp.br">USP</a> (University of São Paulo).</p>
+<p><br /><a href="https://twitter.com/gabithume">Twitter</a> - <a
+href="https://github.com/gabithume">Github</a> - <a
+href="https://instagram.com/gabithume">Instagram</a></p>
 </div>
 
 <div class="about-box">
-<img class="thumb-left" src="v.png" /> <p class="about">Vilson Vieira is a CTO at Extend AI, holds a BSc. in Computer Science and
-MSc. in Applied and Computational Physics from USP (University of São Paulo).</p>
+<img class="thumb-left" src="v.png" /> <p class="about">Vilson Vieira is a CTO at <a href="https://extend.ai">Extend AI</a>, holds a BSc. in Computer Science and
+MSc. in Applied and Computational Physics from <a href="https://usp.br">USP</a> (University of São Paulo).</p>
+<p><br /><a href="https://twitter.com/aut0mata">Twitter</a> - <a
+href="https://github.com/automata">Github</a> - <a
+href="https://instagram.com/aut0mata">Instagram</a></p>
 </div>
 
 # Projects
