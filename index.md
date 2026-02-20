@@ -1,28 +1,26 @@
-Hey! We're __2aliens__, an independent research studio/lab about
-Machine Learning, Art, Music, Games and Coding.
-
-[Twitter](https://twitter.com/002aliens) - [GitHub](https://github.com/2aliens) - [Instagram](https://instagram.com/2aliens_studio)
-
-# About
-
 2aliens is the umbrella of personal projects created by Gabriela Thumé and
 Vilson Vieira.
 
 <div class="about-box">
-<img class="thumb-left" src="g.png" /> <p class="about">Gabriela Thumé is a Machine Learning Engineer at <a href="https://extend.ai">Extend AI</a>, holds a BSc. in
+<img class="thumb-left" src="g.png" /> <p class="about">Gabriela Thumé is a Senior AI Engineer at
+<a href="https://toolsforhumanity.com">Tools for Humanity</a> (builders of <a href="https://world.org">World</a>,
+    co-founded by OpenAI's Sam Altman), holds a BSc. in
 Computer Science and MSc. in Computer Science from <a href="https://usp.br">USP</a> (University of São Paulo).</p>
 <p><br /><a href="https://twitter.com/gabithume">Twitter</a> - <a
 href="https://github.com/gabithume">Github</a> - <a
-href="https://instagram.com/gabithume">Instagram</a></p>
+href="https://linkedin.com/in/gabithume">LinkedIn</a></p>
 </div>
 
 <div class="about-box">
-<img class="thumb-left" src="v.png" /> <p class="about">Vilson Vieira is a CTO at <a href="https://extend.ai">Extend AI</a>, holds a BSc. in Computer Science and
+<img class="thumb-left" src="v.png" /> <p class="about">Vilson Vieira is AI Engineer and Research, worked for
+    Google, Mozilla, Ndea and other compoanies in the past. Now founder of <a href="https://suuper.dev">Suuper</a>, holds a BSc. in Computer Science and
 MSc. in Applied and Computational Physics from <a href="https://usp.br">USP</a> (University of São Paulo).</p>
 <p><br /><a href="https://twitter.com/aut0mata">Twitter</a> - <a
 href="https://github.com/automata">Github</a> - <a
-href="https://instagram.com/aut0mata">Instagram</a></p>
+href="https://linkedin.com/in/aut0mata">LinkedIn</a></p>
 </div>
+
+<!--
 
 # Projects
 
@@ -277,3 +275,4 @@ Learning by creating projects from scratch.
 Once the rust is gone, and you’re fully prepped, it is dead easy to keep your CS and interview skills sharp: solve one coding question per day. I’ve been doing this for the past 3 years or so, and I’ve realized the following benefits:
 I’m never out of practice
 It helps flex mental muscles and improve critical thinking, the same way solving crossword puzzles, brain teasers or playing a game of chess might." (from https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc)
+-->
